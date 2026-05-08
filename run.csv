@@ -818,6 +818,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 4b853259-e3ba-4bc4-bb0e-d3e958271560,majorityminority.run,available,6.99,,42,0,17,name.com,,
 4b98fe49-1e1b-4b0f-949a-30be514329a5,hanginthere.run,available,6.99,,54,3,13,name.com,,
 4b9a2b22-8a68-4db3-ba1d-53775da356aa,holdings.run,available,6.99,,52,14,8,name.com,,
+4bf877ef-0db7-4b05-a639-113968842400,sky.run,resell,,,80,54,3,Porkbun LLC,09/06/2023 15:15,09/06/2026 15:15
 4bf89f3b-1e86-46a8-8349-c2227ae766df,pairofstairs.run,available,6.99,,65,1,14,name.com,,
 4bfa50a3-512e-4f71-a5bc-f7beedb3cd82,clearsailing.run,available,6.99,,72,1,13,name.com,,
 4c1126f5-c49c-42a5-990a-ec0be6241a94,deepfried.run,available,6.99,,74,6,10,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 5cd5cceb-b5aa-48a5-9e51-9215b9bbb334,likeitorleaveit.run,available,6.99,,44,2,19,name.com,,
 5ce9ecde-ebdc-4408-adce-0a3aad596a33,comethrough.run,available,6.99,,78,1,12,name.com,,
 5cfa36f0-939c-4d6d-98c2-97795509a4f8,grandnieces.run,available,6.99,,66,1,11,name.com,,
-5cfbf46e-48ff-4ec5-aa95-78c85c852f38,practices.run,available,6.99,,52,6,9,name.com,,

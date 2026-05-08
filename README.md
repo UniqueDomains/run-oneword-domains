@@ -1,10 +1,10 @@
-# Available .RUN One-Word Domains (10,671)
+# Available .RUN One-Word Domains (10,674)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-10%2C671%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-10%2C674%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .run one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **10,671 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **10,674 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 10,671 domains · **Median ask:** $9.00 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 10,674 domains · **Median ask:** $9.00 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-06  
+**Last updated:** 2026-05-08  
 **Canonical page:** `https://unique.domains/domains/tld/run`  
 **Best for:** founders, investors, studios
 
@@ -74,16 +74,16 @@ print(df.head())
 | presents.run     | available | $6.99     | —             | 80             | 9      | 8      | name.com                                                |
 | rumcake.run      | available | $6.99     | —             | 81             | 3      | 8      | name.com                                                |
 | flaxseed.run     | available | $6.99     | —             | 80             | 4      | 9      | name.com                                                |
-| one.run          | resell    | —         | —             | 84             | 50     | 3      | Porkbun LLC                                             |
+| sky.run          | resell    | —         | —             | 80             | 54     | 3      | Porkbun LLC                                             |
 | CapeCod.run      | premium   | $14       | $28           | 78             | 22     | 8      | namecheap                                               |
-| skills.run       | resell    | —         | —             | 58             | 47     | 6      | Porkbun LLC                                             |
+| one.run          | resell    | —         | —             | 84             | 50     | 3      | Porkbun LLC                                             |
 | VHS.run          | premium   | $14       | $28           | 71             | 20     | 3      | namecheap                                               |
 | commonground.run | available | $6.99     | —             | 74             | 28     | 13     | name.com                                                |
-| jobs.run         | resell    | —         | —             | 79             | 42     | 4      | Squarespace Domains II LLC                              |
+| skills.run       | resell    | —         | —             | 58             | 47     | 6      | Porkbun LLC                                             |
 | inhouse.run      | available | $6.99     | —             | 70             | 23     | 8      | name.com                                                |
-| angel.run        | resell    | —         | —             | 88             | 39     | 5      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
+| jobs.run         | resell    | —         | —             | 79             | 42     | 4      | Squarespace Domains II LLC                              |
 | stadia.run       | available | $6.99     | —             | 66             | 22     | 6      | name.com                                                |
-| events.run       | resell    | —         | —             | 68             | 37     | 6      | GoDaddy.com, LLC                                        |
+| angel.run        | resell    | —         | —             | 88             | 39     | 5      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 10,671 live domains                        |
+| 1,000-row public sample | 10,674 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .RUN One-Word Domains*. Version 2026-05-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .RUN One-Word Domains*. Version 2026-05-08. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
