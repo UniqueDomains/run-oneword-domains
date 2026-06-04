@@ -14,9 +14,9 @@ Daily-updated public extract of available and resale .run one-word domains from 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **10,683 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 10,683 domains · **Median ask:** $9.00 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 10,683 domains · **Median ask:** $8.04 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
+**Last updated:** 2026-06-04  
 **Canonical page:** `https://unique.domains/domains/tld/run`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                               |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------- |
-| Liam.run         | available | $35.98    | —             | 81             | 32     | 4      | namecheap                                               |
-| Acup.run         | available | $35.98    | —             | 80             | 5      | 5      | namecheap                                               |
-| popup.run        | available | $6.99     | —             | 84             | 29     | 6      | name.com                                                |
-| dogsit.run       | available | $6.99     | —             | 96             | 2      | 6      | name.com                                                |
-| edamame.run      | available | $6.99     | —             | 80             | 9      | 7      | name.com                                                |
-| toneup.run       | available | $6.99     | —             | 80             | 5      | 7      | name.com                                                |
-| stirup.run       | available | $6.99     | —             | 82             | 3      | 7      | name.com                                                |
-| presents.run     | available | $6.99     | —             | 80             | 9      | 8      | name.com                                                |
-| rumcake.run      | available | $6.99     | —             | 81             | 2      | 8      | name.com                                                |
-| flaxseed.run     | available | $6.99     | —             | 80             | 4      | 9      | name.com                                                |
-| sky.run          | resell    | —         | —             | 80             | 54     | 3      | Porkbun LLC                                             |
-| CapeCod.run      | premium   | $14       | $28           | 78             | 22     | 8      | namecheap                                               |
-| one.run          | resell    | —         | —             | 84             | 50     | 3      | Porkbun LLC                                             |
-| VHS.run          | premium   | $14       | $28           | 71             | 20     | 3      | namecheap                                               |
-| commonground.run | available | $6.99     | —             | 74             | 28     | 13     | name.com                                                |
-| skills.run       | resell    | —         | —             | 58             | 47     | 6      | Porkbun LLC                                             |
-| inhouse.run      | available | $6.99     | —             | 70             | 23     | 8      | name.com                                                |
-| jobs.run         | resell    | —         | —             | 79             | 42     | 4      | Squarespace Domains II LLC                              |
-| stadia.run       | available | $6.99     | —             | 66             | 22     | 6      | name.com                                                |
-| angel.run        | resell    | —         | —             | 88             | 39     | 5      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
+| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
+| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
+| person.run     | premium   | —         | —             | 80             | 13     | 6      | —                                                   |
+| king.run       | resell    | —         | —             | 97             | 44     | 4      | Chengdu West Dimension Digital Technology Co., Ltd. |
+| mom.run        | premium   | —         | —             | 86             | 27     | 3      | —                                                   |
+| erase.run      | available | $6.99     | —             | 86             | 10     | 5      | name.com                                            |
+| striking.run   | available | $6.99     | —             | 89             | 9      | 8      | name.com                                            |
+| touching.run   | premium   | —         | —             | 88             | 5      | 8      | —                                                   |
+| Iam.run        | premium   | —         | —             | 100            | 45     | 4      | —                                                   |
+| loved.run      | available | $6.99     | —             | 80             | 16     | 5      | name.com                                            |
+| historical.run | available | $6.99     | $41.99        | 88             | 13     | 10     | name.com                                            |
+| pope.run       | available | $6.99     | —             | 80             | 20     | 4      | name.com                                            |
+| pepsicola.run  | available | $6.99     | —             | 82             | 6      | 10     | name.com                                            |
+| leaf.run       | resell    | —         | —             | 92             | 32     | 4      | Dynadot Inc                                         |
+| portable.run   | premium   | —         | —             | 84             | 12     | 8      | —                                                   |
+| recommend.run  | available | $6.99     | —             | 96             | 19     | 9      | name.com                                            |
+| power.run      | premium   | —         | —             | 98             | 28     | 5      | —                                                   |
+| phrase.run     | available | $6.99     | —             | 94             | 11     | 6      | name.com                                            |
+| tradition.run  | available | $6.99     | —             | 88             | 14     | 9      | name.com                                            |
+| ranking.run    | resell    | —         | —             | 94             | 22     | 7      | Sav.com, LLC - 39                                   |
+| sensitive.run  | available | $6.99     | —             | 84             | 10     | 9      | name.com                                            |
+| nought.run     | available | $6.99     | $41.99        | 92             | 6      | 6      | name.com                                            |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .RUN One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .RUN One-Word Domains*. Version 2026-06-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
