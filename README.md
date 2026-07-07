@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .run one-word domains from 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **10,683 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 10,683 domains · **Median ask:** $8.04 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 10,683 domains · **Median ask:** $8.00 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-06-04  
-**Canonical page:** `https://unique.domains/domains/tld/run`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/run`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .RUN one-word domain c
 
 ### Files
 
-- `run.csv` — public CSV extract (1,000 rows)
-- `run.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `run.csv`, public CSV extract (1,000 rows)
+- `run.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
-| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
-| person.run     | premium   | —         | —             | 80             | 13     | 6      | —                                                   |
-| king.run       | resell    | —         | —             | 97             | 44     | 4      | Chengdu West Dimension Digital Technology Co., Ltd. |
-| mom.run        | premium   | —         | —             | 86             | 27     | 3      | —                                                   |
-| erase.run      | available | $6.99     | —             | 86             | 10     | 5      | name.com                                            |
-| striking.run   | available | $6.99     | —             | 89             | 9      | 8      | name.com                                            |
-| touching.run   | premium   | —         | —             | 88             | 5      | 8      | —                                                   |
-| Iam.run        | premium   | —         | —             | 100            | 45     | 4      | —                                                   |
-| loved.run      | available | $6.99     | —             | 80             | 16     | 5      | name.com                                            |
-| historical.run | available | $6.99     | $41.99        | 88             | 13     | 10     | name.com                                            |
-| pope.run       | available | $6.99     | —             | 80             | 20     | 4      | name.com                                            |
-| pepsicola.run  | available | $6.99     | —             | 82             | 6      | 10     | name.com                                            |
-| leaf.run       | resell    | —         | —             | 92             | 32     | 4      | Dynadot Inc                                         |
-| portable.run   | premium   | —         | —             | 84             | 12     | 8      | —                                                   |
-| recommend.run  | available | $6.99     | —             | 96             | 19     | 9      | name.com                                            |
-| power.run      | premium   | —         | —             | 98             | 28     | 5      | —                                                   |
-| phrase.run     | available | $6.99     | —             | 94             | 11     | 6      | name.com                                            |
-| tradition.run  | available | $6.99     | —             | 88             | 14     | 9      | name.com                                            |
-| ranking.run    | resell    | —         | —             | 94             | 22     | 7      | Sav.com, LLC - 39                                   |
-| sensitive.run  | available | $6.99     | —             | 84             | 10     | 9      | name.com                                            |
-| nought.run     | available | $6.99     | $41.99        | 92             | 6      | 6      | name.com                                            |
+| domain   | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
+| -------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
+| area.run | available | $6.99     | —             | high           | low    | 4      | name.com                                     |
+| old.run  | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC                             |
+| awe.run  | premium   | $14       | $28           | high           | low    | 3      | namecheap                                    |
+| aunt.run | available | $6.99     | —             | high           | low    | 4      | name.com                                     |
+| van.run  | resell    | —         | —             | high           | low    | 3      | Spaceship, Inc.                              |
+| beg.run  | premium   | $14       | $28           | medium         | low    | 3      | namecheap                                    |
+| born.run | available | $6.99     | —             | high           | low    | 4      | name.com                                     |
+| bake.run | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC - 48                            |
+| dig.run  | premium   | $13       | $26           | high           | low    | 3      | namecheap                                    |
+| bury.run | available | $6.99     | —             | medium         | low    | 4      | name.com                                     |
+| ball.run | resell    | —         | —             | medium         | low    | 4      | Xin Net Technology Corporation               |
+| due.run  | premium   | $14       | $28           | high           | low    | 3      | namecheap                                    |
+| came.run | available | $6.99     | —             | high           | low    | 4      | name.com                                     |
+| bash.run | resell    | —         | —             | high           | low    | 4      | NameCheap, Inc.                              |
+| hat.run  | premium   | $14       | $28           | high           | low    | 3      | namecheap                                    |
+| cows.run | available | $6.99     | —             | medium         | low    | 4      | name.com                                     |
+| beat.run | resell    | —         | —             | high           | low    | 4      | Xin Net Technology Corporation               |
+| jar.run  | premium   | $13       | $26           | high           | low    | 3      | namecheap                                    |
+| DSLR.run | available | $6.99     | —             | high           | low    | 4      | name.com                                     |
+| duck.run | resell    | —         | —             | medium         | low    | 4      | Xiamen ChinaSource Internet Service Co., Ltd |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This set is entirely made up of .run domains, a niche extension that naturally fits motion, fitness, events, software tasks, and action-oriented brands. The examples show a broad mix: first names like Liam.run, verbs and commands like gearup.run, utility terms like popup.run, and quirky dictionary words like edamame.run. With a median ask of 9.00, the main question is less entry price and more fit. When comparing these domains, focus on whether the word becomes clearer or stronger with .run attached, whether it is easy to say and type, and whether the term could create trademark friction if used commercially.
+This list covers one-word .run domain names built from everyday phrases and action words — think getlucky.run, settledown.run, and jetblack.run. The .run extension naturally fits movement, habit, and lifestyle branding, which shows up across the set in names tied to routines, food, and daily activity. With a median ask near $8, most names in this selection are priced for fast comparison rather than long negotiation. Whether you're scanning for a quick pickup or a brandable name to build on, the value here comes from volume: thousands of short, memorable .run strings updated daily.
 
-- Prioritize words that pair naturally with .run
-- Check spelling clarity and spoken recall
-- Low ask helps, but fit matters more than price
-- Avoid terms with obvious trademark exposure
+- 10,683 one-word .run domain names in this selection
+- Median ask near $8 across the set
+- Lifestyle, habit, and action-word naming patterns
+- Updated daily to reflect current .run domain pricing
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .RUN One-Word Domains*. Version 2026-06-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .RUN One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
