@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .run one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 18,249 domains · **Median ask:** $5.60 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-09-05
+**Last updated:** 2026-09-06
 **Canonical page:** `https://unique.domains/domains/tld/run`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
-| ---------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
-| soft.run   | resell    | —         | —             | high           | low    | 4      | Xiamen ChinaSource Internet Service Co., Ltd |
-| ground.run | resell    | —         | —             | high           | low    | 6      | Sav.com, LLC - 33                            |
-| agog.run   | available | $3.48     | $35.98        | low            | low    | 4      | namecheap                                    |
-| old.run    | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC                             |
-| abo.run    | premium   | $13       | $26           | low            | low    | 3      | namecheap                                    |
-| area.run   | available | $6.99     | —             | high           | low    | 4      | name.com                                     |
-| van.run    | resell    | —         | —             | high           | low    | 3      | Spaceship, Inc.                              |
-| awe.run    | premium   | $14       | $28           | high           | low    | 3      | namecheap                                    |
-| aunt.run   | available | $6.99     | —             | high           | low    | 4      | name.com                                     |
-| bake.run   | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC - 48                            |
-| beg.run    | premium   | $14       | $28           | medium         | low    | 3      | namecheap                                    |
-| awol.run   | available | $3.48     | $35.98        | low            | low    | 4      | namecheap                                    |
-| ball.run   | resell    | —         | —             | medium         | low    | 4      | Xin Net Technology Corporation               |
-| dig.run    | premium   | $13       | $26           | high           | low    | 3      | namecheap                                    |
-| bats.run   | available | $3.48     | $35.98        | low            | low    | 4      | namecheap                                    |
-| bash.run   | resell    | —         | —             | high           | low    | 4      | NameCheap, Inc.                              |
-| due.run    | premium   | $14       | $28           | high           | low    | 3      | namecheap                                    |
-| born.run   | available | $6.99     | —             | high           | low    | 4      | name.com                                     |
-| beat.run   | resell    | —         | —             | high           | low    | 4      | Xin Net Technology Corporation               |
-| hat.run    | premium   | $13       | $26           | medium         | low    | 3      | namecheap                                    |
+| domain   | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
+| -------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
+| agog.run | available | $3.48     | $35.98        | low            | low    | 4      | namecheap                                    |
+| old.run  | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC                             |
+| abo.run  | premium   | $13       | $26           | low            | low    | 3      | namecheap                                    |
+| area.run | available | $6.99     | —             | high           | low    | 4      | name.com                                     |
+| van.run  | resell    | —         | —             | high           | low    | 3      | Spaceship, Inc.                              |
+| awe.run  | premium   | $14       | $28           | high           | low    | 3      | namecheap                                    |
+| aunt.run | available | $6.99     | —             | high           | low    | 4      | name.com                                     |
+| bake.run | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC - 48                            |
+| beg.run  | premium   | $14       | $28           | medium         | low    | 3      | namecheap                                    |
+| awol.run | available | $3.48     | $35.98        | low            | low    | 4      | namecheap                                    |
+| ball.run | resell    | —         | —             | medium         | low    | 4      | Xin Net Technology Corporation               |
+| dig.run  | premium   | $13       | $26           | high           | low    | 3      | namecheap                                    |
+| bats.run | available | $3.48     | $35.98        | low            | low    | 4      | namecheap                                    |
+| bash.run | resell    | —         | —             | high           | low    | 4      | NameCheap, Inc.                              |
+| due.run  | premium   | $14       | $28           | high           | low    | 3      | namecheap                                    |
+| born.run | available | $6.99     | —             | high           | low    | 4      | name.com                                     |
+| beat.run | resell    | —         | —             | high           | low    | 4      | Xin Net Technology Corporation               |
+| hat.run  | premium   | $13       | $26           | medium         | low    | 3      | namecheap                                    |
+| bury.run | available | $6.99     | —             | medium         | low    | 4      | name.com                                     |
+| duck.run | resell    | —         | —             | medium         | low    | 4      | Xiamen ChinaSource Internet Service Co., Ltd |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .RUN One-Word Domains*. Version 2026-09-05. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .RUN One-Word Domains*. Version 2026-09-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
