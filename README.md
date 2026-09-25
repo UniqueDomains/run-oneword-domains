@@ -1,10 +1,10 @@
-# Available .RUN One-Word Domains (28,400)
+# Available .RUN One-Word Domains (11,933)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-28%2C400%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C933%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .run one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **28,400 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **11,933 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 28,400 domains · **Median ask:** $5.38 · **High-demand under $2,500:** 1
+**Public extract:** 1,000 rows · **Live catalog:** 11,933 domains · **Median ask:** $4.73 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-09-24
+**Last updated:** 2026-09-25
 **Canonical page:** `https://unique.domains/domains/tld/run`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain    | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                      |
-| --------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------ |
-| agog.run  | available | $3.48     | $35.98        | low            | low    | 4      | namecheap                      |
-| drink.run | resell    | $6.99     | —             | medium         | low    | 5      | Spaceship, Inc.                |
-| abo.run   | premium   | $13       | $26           | low            | low    | 3      | namecheap                      |
-| area.run  | available | $6.99     | —             | high           | low    | 4      | name.com                       |
-| old.run   | resell    | —         | —             | high           | low    | 3      | Key-Systems, LLC               |
-| awe.run   | premium   | $14       | $28           | high           | low    | 3      | namecheap                      |
-| aunt.run  | available | $6.99     | —             | high           | low    | 4      | name.com                       |
-| pub.run   | resell    | —         | —             | high           | low    | 3      | Go France Domains, LLC         |
-| beg.run   | premium   | $14       | $28           | medium         | low    | 3      | namecheap                      |
-| awol.run  | available | $3.48     | $35.98        | low            | low    | 4      | namecheap                      |
-| bake.run  | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC - 48              |
-| dig.run   | premium   | $13       | $26           | high           | low    | 3      | namecheap                      |
-| babe.run  | available | $6.99     | —             | high           | low    | 4      | name.com                       |
-| ball.run  | resell    | —         | —             | medium         | low    | 4      | Xin Net Technology Corporation |
-| eid.run   | premium   | $14       | $28           | high           | low    | 3      | namecheap                      |
-| bald.run  | available | $3.48     | $35.98        | low            | low    | 4      | namecheap                      |
-| bash.run  | resell    | —         | —             | high           | low    | 4      | NameCheap, Inc.                |
-| feb.run   | premium   | $14       | $28           | high           | low    | 3      | namecheap                      |
-| bats.run  | available | $3.48     | $35.98        | low            | low    | 4      | namecheap                      |
-| bird.run  | resell    | —         | —             | high           | medium | 4      | DNSPod, Inc.                   |
+| domain    | status    | ask_price | renewal_price | attractiveness | demand | length | registrar              |
+| --------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------------- |
+| achy.run  | available | $3.48     | $35.98        | medium         | low    | 4      | namecheap              |
+| drink.run | resell    | $6.99     | —             | high           | low    | 5      | Spaceship, Inc.        |
+| abo.run   | premium   | $13       | $26           | high           | low    | 3      | namecheap              |
+| acre.run  | available | $6.99     | —             | high           | low    | 4      | name.com               |
+| day.run   | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC       |
+| awe.run   | premium   | $14       | $28           | high           | low    | 3      | namecheap              |
+| agog.run  | available | $3.48     | $35.98        | high           | low    | 4      | namecheap              |
+| pub.run   | resell    | —         | —             | high           | low    | 3      | Go France Domains, LLC |
+| beg.run   | premium   | $14       | $28           | high           | low    | 3      | namecheap              |
+| airy.run  | available | $3.48     | $35.98        | high           | low    | 4      | namecheap              |
+| bake.run  | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC - 48      |
+| bjp.run   | premium   | $140      | $280          | high           | low    | 3      | namecheap              |
+| area.run  | available | $6.99     | —             | high           | low    | 4      | name.com               |
+| bash.run  | resell    | —         | —             | high           | low    | 4      | NameCheap, Inc.        |
+| but.run   | premium   | $14       | $28           | high           | low    | 3      | namecheap              |
+| arse.run  | available | $3.48     | $35.98        | medium         | low    | 4      | namecheap              |
+| bird.run  | resell    | —         | —             | high           | medium | 4      | DNSPod, Inc.           |
+| cot.run   | premium   | $14       | $28           | high           | low    | 3      | namecheap              |
+| auld.run  | available | $3.48     | $35.98        | medium         | low    | 4      | namecheap              |
+| bond.run  | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC - 23      |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 28,400 live domains                        |
+| 1,000-row public sample | 11,933 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 1 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .RUN One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .RUN One-Word Domains*. Version 2026-09-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
