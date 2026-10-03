@@ -1,10 +1,10 @@
-# Available .RUN One-Word Domains (26,829)
+# Available .RUN One-Word Domains (28,772)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-26%2C829%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-28%2C772%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .run one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **26,829 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **28,772 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 26,829 domains · **Median ask:** $7.30 · **High-demand under $2,500:** 1
+**Public extract:** 1,000 rows · **Live catalog:** 28,772 domains · **Median ask:** $7.65 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-10-02
+**Last updated:** 2026-10-03
 **Canonical page:** `https://unique.domains/domains/tld/run`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar              |
-| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------------- |
-| aceh.run      | available | $6.99     | $26.99        | medium         | low    | 4      | namesilo               |
-| woods.run     | resell    | $6.99     | —             | high           | low    | 5      | name.com               |
-| auc.run       | premium   | $23.60    | $23.60        | high           | low    | 3      | namesilo               |
-| adds.run      | available | $6.99     | $26.99        | medium         | low    | 4      | namesilo               |
-| impress.run   | resell    | $6.99     | —             | high           | low    | 7      | name.com               |
-| bjp.run       | premium   | $140      | $280          | high           | low    | 3      | namecheap              |
-| agni.run      | available | $6.99     | $26.99        | medium         | low    | 4      | namesilo               |
-| delicious.run | resell    | $6.99     | $41.99        | high           | low    | 9      | Spaceship, Inc.        |
-| bmr.run       | premium   | $242      | $242          | high           | low    | 3      | namesilo               |
-| amoy.run      | available | $6.99     | $26.99        | medium         | low    | 4      | namesilo               |
-| wellbeing.run | resell    | $6.99     | —             | high           | low    | 9      | name.com               |
-| cbt.run       | premium   | $220      | $220          | high           | low    | 3      | dynadot                |
-| amur.run      | available | $6.99     | $26.99        | high           | low    | 4      | namesilo               |
-| not.run       | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC       |
-| cer.run       | premium   | $10.55    | $20.90        | high           | low    | 3      | spaceship              |
-| aunt.run      | available | $6.50     | —             | high           | low    | 4      | unstoppable            |
-| tea.run       | resell    | —         | —             | high           | medium | 3      | Wild West Domains, LLC |
-| cpm.run       | premium   | $23.60    | $23.60        | high           | low    | 3      | namesilo               |
-| axes.run      | available | $3.48     | $35.98        | low            | low    | 4      | namecheap              |
-| cafe.run      | resell    | —         | —             | high           | low    | 4      | DNSPod, Inc.           |
+| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| aceh.run      | available | $6.99     | $26.99        | medium         | low    | 4      | namesilo         |
+| woods.run     | resell    | $6.99     | —             | high           | low    | 5      | name.com         |
+| auc.run       | premium   | $23.60    | $23.60        | high           | low    | 3      | namesilo         |
+| adds.run      | available | $6.99     | $26.99        | medium         | low    | 4      | namesilo         |
+| impress.run   | resell    | $6.99     | —             | high           | low    | 7      | name.com         |
+| bjp.run       | premium   | $103.70   | $207.20       | high           | low    | 3      | spaceship        |
+| amoy.run      | available | $6.99     | $26.99        | medium         | low    | 4      | namesilo         |
+| players.run   | resell    | $6.99     | —             | high           | low    | 7      | name.com         |
+| bmr.run       | premium   | $242      | $242          | high           | low    | 3      | namesilo         |
+| amur.run      | available | $6.99     | $26.99        | high           | low    | 4      | namesilo         |
+| delicious.run | resell    | $6.99     | $41.99        | high           | low    | 9      | Spaceship, Inc.  |
+| cbt.run       | premium   | $220      | $220          | high           | low    | 3      | dynadot          |
+| aunt.run      | available | $6.50     | —             | high           | low    | 4      | unstoppable      |
+| wellbeing.run | resell    | $6.99     | —             | high           | low    | 9      | name.com         |
+| cfb.run       | premium   | $22       | $22.99        | high           | low    | 3      | dynadot          |
+| axes.run      | available | $3.48     | $35.98        | low            | low    | 4      | namecheap        |
+| not.run       | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC |
+| cpm.run       | premium   | $23.60    | $23.60        | high           | low    | 3      | namesilo         |
+| bows.run      | available | $6.50     | —             | medium         | low    | 4      | unstoppable      |
+| cafe.run      | resell    | —         | —             | high           | low    | 4      | DNSPod, Inc.     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 26,829 live domains                        |
+| 1,000-row public sample | 28,772 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 1 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .RUN One-Word Domains*. Version 2026-10-02. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .RUN One-Word Domains*. Version 2026-10-03. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
